@@ -11,5 +11,6 @@ class B : A(){
         println(nesne.publicDegisken)
         println(protectedDegisken)
 
+
     }
 }
