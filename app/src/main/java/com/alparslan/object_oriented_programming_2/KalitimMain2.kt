@@ -15,4 +15,7 @@ fun main(){
     println("Pencere sayısı: ${bogazVilla.pencereSayisi}")
     println("Garaj durumu: ${bogazVilla.garajVarMi}")
 
+
+
 }
+
