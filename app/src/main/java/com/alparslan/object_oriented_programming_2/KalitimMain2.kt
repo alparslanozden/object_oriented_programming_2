@@ -8,13 +8,13 @@ fun main(){
     println("Topkapı Sarayı Özellikleri:")
     println("Pencere sayısı: ${topkapiSarayi.pencereSayisi}")
     println("Kule sayısı: ${topkapiSarayi.kuleSayisi}")
+    println("Garaj durumu: ")
 
     println("----------------------------------------")
 
     println("Boğaz Villa Özellikleri:")
     println("Pencere sayısı: ${bogazVilla.pencereSayisi}")
     println("Garaj durumu: ${bogazVilla.garajVarMi}")
-
 
 
 }
