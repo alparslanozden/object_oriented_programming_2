@@ -8,14 +8,14 @@ class Mudur:Personel() {
 
     fun terfiEttir(p:Personel){
 
-        if(p is Ogretmen){                      //TYPE CONTROL
+    /*    if(p is Ogretmen){                      // TYPE CONTROL
             p.maasArttir()
         }
 
         if(p is Isci){
             println("İşçiler terfi alamaz")
         }
-
-      //  (p as Ogretmen).maasArttir()      CASTİNG
+    */
+        (p as Ogretmen).maasArttir()             // CASTİNG
     }
 }
