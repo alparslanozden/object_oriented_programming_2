@@ -10,7 +10,7 @@ fun main(){
 
     val nesneler = arrayOf(aslan,amasyaElmasi,elma,tavuk)
 
-    for(nesne in nesneler){
+    for(nesne in nesneler){                 //superclass subclass
         if (nesne is Eatable){
             nesne.howToEat()
         }
