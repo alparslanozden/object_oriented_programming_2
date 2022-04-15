@@ -16,4 +16,6 @@ fun main(){
     for ((indeks, meyve) in meyveler.withIndex()){
         println("Sonuç 2: $indeks : $meyve")
     }
+
+
 }
