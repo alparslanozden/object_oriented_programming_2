@@ -17,6 +17,6 @@ fun main(){
         toplam = toplam + s
     }
 
-    println("Ortalama: ${toplam / sayilar.size }")
+    println("Sayıların Ortalaması: ${toplam / sayilar.size }")
 
 }
