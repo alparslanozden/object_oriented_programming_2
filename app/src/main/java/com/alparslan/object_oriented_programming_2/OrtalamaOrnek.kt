@@ -10,6 +10,7 @@ fun main(){
     sayilar.add(90)
     sayilar.add(110)
     sayilar.add(300)
+    sayilar.add(500)
 
     var toplam = 0
 
