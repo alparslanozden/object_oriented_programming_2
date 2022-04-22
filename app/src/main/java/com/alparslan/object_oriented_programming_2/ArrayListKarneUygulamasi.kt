@@ -1,6 +1,6 @@
 package com.alparslan.object_oriented_programming_2
 
-import java.util.*
+import java.util.Scanner
 import kotlin.collections.ArrayList
 
 fun main(){
@@ -39,9 +39,10 @@ fun main(){
                 }else{
                     println("KALDI")
                 }
-                println("Çıkış Yapıldı")
+                println("Çıkış Yapıldı ve Kaydedildi")
                 break
             }
+
     }
 
 }
